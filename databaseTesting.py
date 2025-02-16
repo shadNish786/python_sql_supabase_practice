@@ -4,7 +4,7 @@ import streamlit as st
 import os
 from supabase import create_client
 
-#declare url and key
+#declare url and key from supabase
 url = ""
 key = ""
 
